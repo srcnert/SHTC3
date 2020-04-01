@@ -1,0 +1,10 @@
+_gcc_eclipse/_build/
+_keil/Listings/
+_keil/Objects/
+_keil/*.uvguix.*
+_keil/*.scvd
+_keil/*.txt
+_keil/*.ini
+_segger/Output/
+_segger/*.jlink
+*.DS_Store
